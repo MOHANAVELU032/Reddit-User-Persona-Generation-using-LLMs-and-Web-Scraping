@@ -1,0 +1,39 @@
+=== USER PERSONA ===
+Username: kojied
+
+=== DEMOGRAPHICS ===
+
+*   **Age:** Likely between 25-45. This is inferred from their interest in technology like AVP (Apple Vision Pro) and familiarity with modern concepts, suggesting they are likely adults with some disposable income and tech awareness.
+*   **Location:** Likely residing in an urban area in the USA. This is supported by posts about Lyft bikes [POST 15], which are typically found in urban environments.
+*   **Education/Profession:** Appears to have some level of education and possibly works in a field related to technology, finance, or a combination of both. This is suggested by their interest in financial markets and emerging technologies like AVP and ChatGPT [POST 8, POST 9, POST 22, POST 23, POST 24, POST 27, POST 28].
+*   **Likely Political Stance:** Potentially left-leaning or at least critically analytical of current events. Shown through their discussion of Trump having Coronavirus [POST 25].
+
+=== INTERESTS ===
+
+*   **Technology/Futurism:** Deep interest in emerging technologies and future trends. Examples include posts about Apple Vision Pro [POST 6, POST 9, POST 10], ChatGPT [POST 8], and futuristic living [POST 7]. "Can't wait for Vision Air 5 launching in 2034 with these transparent displays!" (source: POST [6])
+*   **Finance/Investing:** Active interest in financial markets, particularly options trading. Evidenced by multiple posts related to buying and selling options [POST 22, POST 23, POST 24, POST 27, POST 28] and discussing investment strategies [POST 23]. "Seeking advice: I’ve made some gains buying put options this month..." (source: POST [23])
+*   **Gaming:** Implied interest in gaming and virtual worlds, suggested by posts about Pokemon Go in AVP [POST 9], working in AVP [POST 10], and a Project Zomboid post [POST 20]. "Would you guys like to see Pokemon Go in AVP?" (source: POST [9])
+*   **Gardening/Home Improvement:** Demonstrated interest in gardening and plant care, specifically English ivy. Repeatedly seeks help with a withering English ivy [POST 12, POST 14, POST 19]. "【Help!】English ivy is withering, any suggestions on what I should do?" (source: POST [12])
+*   **Social Issues/Current Events:** Interest in broader social and political issues, shown through posts about banning TikTok [POST 2], tracking individual impacts [POST 17], and reviewing referee inconsistencies [POST 1]. "Are you guys for/against banning Tiktok in the US?" (source: POST [2])
+*   **Movies and Nostalgia:** Interest in reflecting on past experiences through movies, indicative of a reflective nature and valuing personal history. "What’s a movie that best represents your childhood?" (source: POST [3])
+
+=== BEHAVIOR PATTERNS ===
+
+*   **Seeks Advice/Input from Community:** Frequently uses Reddit to ask for advice and opinions from others, particularly in areas where they lack expertise (e.g., gardening, investment strategies). "Seeking advice: I’ve made some gains buying put options this month..." (source: POST [23]) and "【Help!】English ivy is withering, any suggestions on what I should do?" (source: POST [12])
+*   **Participates in Hypothetical Discussions:** Engages in speculative discussions about future technologies and scenarios (e.g., Pokemon Go in AVP, transparent displays in 2034). "Would you guys like to see Pokemon Go in AVP?" (source: POST [9]) and "Can't wait for Vision Air 5 launching in 2034 with these transparent displays!" (source: POST [6])
+*   **Shares Personal Experiences/Problems:** Posts about personal experiences, like the Lyft bike issue, and seeks solutions from the community. "Lyft bike on the loose, support team will "email me as soon as possible"" (source: POST [15])
+*   **Concern for details:** Demonstrated through posts about tracking impacts through ESG ratings [POST 17] and deciding what to buy and not to buy [POST 18]. "Tracking our individual impacts on the world through ESG ratings" (source: POST [17])
+
+=== PERSONALITY TRAITS ===
+
+*   **Curious:** Exhibits a broad range of interests and actively explores new ideas and technologies. This is apparent in their diverse range of posts.
+*   **Inquisitive:** Seeks information and advice from others, indicating a desire to learn and understand new things. Evident in posts asking for suggestions on learning resources [POST 5], gardening tips [POST 12], and investment strategies [POST 23].
+*   **Future-Oriented:** Focuses on future trends and technologies, suggesting a forward-thinking and visionary mindset. The prevalence of posts about AVP and future technology trends supports this.
+*   **Pragmatic:** While interested in futuristic concepts, also deals with practical, everyday issues like gardening problems and transportation issues.
+*   **Analytical:** Evident through posts discussing complex topics like options trading strategies and the implications of ESG ratings.
+*   **Humorous:** Inferred due to the tongue-in-cheek question regarding Funeral Stocks. "Funeral stocks, yay or nay?" (source: POST [28])
+
+=== OTHER OBSERVATIONS ===
+
+*   **Use of Emojis/Informal Language:** Their post on the moon evokes a sense of excitement and youthfulness, using a casual style. "Watching Edgerunners on the moon feels" (source: POST [7])
+*   **Titles:** The use of Bracket notation such as \[Theory] and \[Help!] suggests the user is familiar with conventions used on Reddit.
